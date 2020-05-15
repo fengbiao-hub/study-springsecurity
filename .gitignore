@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#自定义忽略文件
+target
+.classpath
+.settings
+logs
+log
+.project
+test
